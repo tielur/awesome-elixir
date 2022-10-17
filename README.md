@@ -242,6 +242,8 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [Runhyve](https://runhyve.app) - Runhyve is complete virtual machines manager for bhyve on FreeBSD. It's written in Elixir and uses Phoenix framework.
 * [simple_bayes](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
 * [Synapses](https://mrdimosthenis.github.io/Synapses/?elixir) - A lightweight library for neural networks.
+* [Nx](https://github.com/elixir-nx/nx) - Multi-dimensional arrays (tensors) and numerical definitions for Elixir
+* [Axon](https://github.com/elixir-nx/axon) - Nx-powered Neural Networks
 
 ## Audio and Sounds
 *Libraries working with sounds and tones.*
